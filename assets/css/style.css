@@ -3,12 +3,12 @@
   padding: 0;
   border: none;
 }
-
+/*
 body {
     background-color: black;
     color:white;
 }
-
+*/
 .navbar {
     overflow: hidden;
     background-color: #1a6484;
@@ -40,6 +40,12 @@ body {
 
   .navbar .logo {
     float: left;
-    font-size 25px;
+    font-size: 25px;
     margin-left: 30px;
+  }
+
+  #hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero_image.jpg') no-repeat center center;
   }
