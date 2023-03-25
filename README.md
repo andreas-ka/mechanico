@@ -29,9 +29,15 @@ ________________________________________________________________________________
 ### Join US ###
 _________________________________________________________________________________________________
 ## Credits ##
+
 Credit to Tristan Sterling also known as captainsterling on instagram, its his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
 
 Logo in hero image made from the website https://logo.com
 
 Inspiration and code help from the "Love Running" Project.
 
+Code inspiration to put the hero-image-logo.png on top of hero-image.jpg
+https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio
+
+Tips for the static navbar
+https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
