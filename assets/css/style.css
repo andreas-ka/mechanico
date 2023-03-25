@@ -13,9 +13,13 @@ body {
     color:white;
 }
 
+i {
+  color: #000000;
+}
+
 .navbar {
     overflow: hidden;
-    background-color: #1a6484;
+    background-color: #cda05c;
     position: fixed;
     top: 0;
     width: 100%;
@@ -24,7 +28,7 @@ body {
   .navbar a {
     float: right;
     display: block;
-    color: #eeeeee;
+    color: #000000;
     text-align: center;
     padding: 15px 20px;
     text-decoration: none;
@@ -51,5 +55,25 @@ body {
   #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/hero_image.jpg') no-repeat center center;
+    background: url('../images/hero-image.jpg') no-repeat center center;
   }
+  
+  .hero-logo {
+    padding-top: 70px;
+    padding-left: 70px;
+    display: block;
+    width: 100%;
+    height: auto;
+    
+  }
+  
+  /*
+  #img-id {
+    position: absolute;
+    display: inline-block;
+    max-width:600px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+  }
+  */
