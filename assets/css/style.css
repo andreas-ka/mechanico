@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+#nav-bar, #logo {
+    line-height: 50px;
+    
+}
+
+#nav-bar li {
+    float: right;
+    list-style-type: none;
+    letter-spacing: 2px;
+    margin-right: 20px;
+}
+
+#nav-bar a {
+    color:white;
+    text-decoration: none;
+}
+
+#logo-top {
+    color: white;
+}
