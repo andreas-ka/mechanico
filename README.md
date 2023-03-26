@@ -47,3 +47,6 @@ https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
 
 CSS Gradient tool for navbar
 https://cssgradient.io/
+
+Found this on stackoverflow how you can style the <audio> tag
+https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
