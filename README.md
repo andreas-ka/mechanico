@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 ### Navigation Bar ###
 
+Navigation bar is maded statis and moves with the page when you scoll, bot eye catching and handy.
+
 ### Landing page ###
 
 ### Who we are
