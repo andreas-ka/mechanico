@@ -90,17 +90,18 @@ h3 {
   /*info and about */
   
   .center-div {
-    font-family: arial;
+    font-family: 'Roboto', serif;
     font-size: 24px;
     margin: auto;
     width: 50%;
-    height: 80px;
+    height: 100px;
     padding-top: 20px;
     
   }
 
   .center-div > h3 {
     text-align: center;
+    padding-top: 40px;
   }
 
  
@@ -114,8 +115,12 @@ h3 {
     padding: 30px;
     display: inline-block;
     margin: 50px;
-    max-width: 500px;
+    max-width: 400px;
 
+  }
+
+  .img-keyboards {
+    border-style: 1px solid #ffffff;
   }
 
   /* audio player */
