@@ -19,7 +19,8 @@ i {
 
 .navbar {
     overflow: hidden;
-    background-color: #cda05c;
+    background: rgb(142,48,94);
+    background: linear-gradient(90deg, rgba(142,48,94,1) 0%, rgba(100,58,117,1) 46%, rgba(53,43,109,1) 100%);
     position: fixed;
     top: 0;
     width: 100%;
@@ -28,7 +29,7 @@ i {
   .navbar a {
     float: right;
     display: block;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 15px 20px;
     text-decoration: none;
@@ -37,7 +38,7 @@ i {
   }
   
   .navbar a:hover {
-    color: #000000;
+    color: #ffffff;
   }
   
   .container {
@@ -67,13 +68,3 @@ i {
     
   }
   
-  /*
-  #img-id {
-    position: absolute;
-    display: inline-block;
-    max-width:600px;
-    max-height:350px;
-    width: auto;
-    height: auto;
-  }
-  */
