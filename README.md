@@ -32,6 +32,9 @@ ________________________________________________________________________________
 
 Credit to Tristan Sterling also known as captainsterling on instagram, its his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
 
+Credit to Alexotos, huge profile in the keyboard community who let me use his images if i want.
+https://www.alexotos.com/
+
 Logo in hero image made from the website https://logo.com
 
 Inspiration and code help from the "Love Running" Project.
@@ -41,3 +44,6 @@ https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-asp
 
 Tips for the static navbar
 https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
+
+CSS Gradient tool for navbar
+https://cssgradient.io/
