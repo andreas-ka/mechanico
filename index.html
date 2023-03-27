@@ -16,9 +16,9 @@
     <header>
         <nav>
             <div class="navbar">
-                <a href="#joinus">JOIN US</a>
-                <a href="#meetup">MEET UPS</a>
-                <a href="#index" class="active">HOME</a>
+                <a href="#joinus" aria-label="join us">JOIN US</a>
+                <a href="#meetup" aria-label="meet ups">MEET UPS</a>
+                <a href="#index" class="active" aria-label="home">HOME</a>
                 <div class="logo">
                     <a href="#meetup"><i class="fa-solid fa-keyboard" style="color: #ffffff;"></i> MECHANICO</a>
                 </div>
@@ -46,28 +46,32 @@
                 <br>
                 If so maybe you should join our society of dedicated keyboard enthusiast who loves
                 to talk, build, meet likeminded friends and enjoy the hobby called
-                custom mechanical keyboards </p>
-            <br>
-            <br>
-            Head over to the Join US page and apply today!
+                custom mechanical keyboards
+                <br>
+                <br>
+                Head over to the Join US page and apply today!</p>
         </div>
         <div class="info-block">
-            <img class="img-keyboards" width="399" height="399" src="/assets/images/purple-keyboard.jpg">
+            <img class="img-keyboards" src="/assets/images/purple-keyboard.jpg">
         </div>
     </div>
     <section>
         <div id="audio-text">
-            <h3>*Low pitched typing sounds, sometimes described as “deep.”</h3>
+            <h3>*Low pitched typing sounds, sometimes described as “deep.”
             <br>
-            <h3>Hear the sound of the thock below</h3>
+            <br>
+            Hear the sound of the thock below</h3>
         </div>
-        <div id="audio-player">
+        <div id="audio">
+            <div id="audio-player">
             <audio src="https://codeinstitute.s3.amazonaws.com/HTMLEssentials/click.mp3" controls muted loop>
             </audio>
+            </div>
         </div>
 
     </section>
     <footer>
+        <div id="footer-wrapper">
         <div id="footer-social">
             <a href="https://facebook.com" target="_blank" rel="noopener"
                 aria-label="Visit our facebook page, opens up in new tab"><i class="fa-brands fa-facebook"
@@ -84,6 +88,7 @@
             <a href="https://discord.com" target="_blank" rel="noopener"
                 aria-label="Visit our discord page, opens up in new tab"><i class="fa-brands fa-discord"
                     style="color: #ffffff;"></i></a>
+        </div>
         </div>
     </footer>
     </main>

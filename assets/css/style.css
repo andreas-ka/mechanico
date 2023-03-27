@@ -108,14 +108,16 @@ h3 {
 
   #info-wrapper {
     display: flex;
+    justify-content: center;
   
     
   }
   .info-block {
-    justify-content: space-evenly;
-    max-width: 400px;
+    display: flex;
+    max-width: 500px;
+    width: 500px;
+    height: 500px;
     vertical-align: top;
-
   }
 
   .img-keyboards {
@@ -123,27 +125,33 @@ h3 {
   }
 
   /* audio player */
+
   #audio-text {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
     
   }
 
+  #audio {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+
   #audio-player {
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 100px;
-  }
-
-  audio {
+    justify-content: center;
     filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-    width: 200px;
-    height: 40px;
+    
   }
-
-
-
 
   /* footer */
+
+  #footer-wrapper {
+    display: flex;
+    justify-content: center;
+  }
 
   #footer-social {
     width: 100%;
