@@ -39,6 +39,11 @@ h3 {
     width: 100%;
   }
 
+  #nav-links {
+    display: flex;
+    margin-right: 40px;
+  }
+
   #navbar a {
     font-size: 25px;
     text-decoration: none;
@@ -58,19 +63,6 @@ h3 {
     color: #ffffff;
     font-family: 'Playfair Display', serif;
   }
-
-
-
-  /*
-  #links #links-table a {
-    text-decoration: none;
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 35px;
-    padding-right: 30px;
-    font-family: 'Inter', sans-serif;
-  }
-  */
   
   #navbar a:hover {
     color: #ffffff;
@@ -174,3 +166,88 @@ h3 {
     letter-spacing: 10px;
     height: 50px;
   }
+
+  /* Media queries */
+
+  /* Larger screen 1200px */
+
+    @media screen and (max-width: 1200px) {
+
+    #info-wrapper {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+    }
+
+    .info-block {
+    width: 100%;
+    float: left;
+    padding: 0;
+    clear: both;
+    }
+  }
+  /* Medium scren 950px */  
+    @media screen and (max-width: 950px) {
+
+    nav {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+    }
+
+    #nav-links {
+    flex-direction: column;
+    justify-content: center;
+    }
+
+    .center-div {
+    width: 90%;
+    }
+
+    #info-wrapper {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+    }
+
+    .info-block {
+    float: left;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    }
+    }
+
+  /* media screens max width 800px */
+
+  @media screen and (max-width: 800px) {
+    * {
+      box-sizing: border-box;
+    }
+
+    #navbar {
+    float: none;
+    width: 100%;
+    }
+
+    #nav-links {
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+      
+    }
+
+    #info-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    column-count: 1;
+    }
+    
+    .info-block {
+    flex-direction: column;
+    justify-content: center;
+    }
+ }
+ 
