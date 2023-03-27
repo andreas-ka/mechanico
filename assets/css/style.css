@@ -5,7 +5,19 @@
   margin: 0;
   padding: 0;
   border: none;
+} 
+/*
+html {
+    box-sizing: border-box;
 }
+*, *::before, *::after {
+    box-sizing: inherit;
+} */
+
+html,body{
+    overflow-x: hidden;
+  }
+
 /*navbar links active status */
 .active {
     border-bottom: 4px solid #ffffff;
@@ -260,7 +272,7 @@ h3 {
     }
 
 
-  /* media screens max width 800px */
+  
 
   @media (min-width: 200px) and (max-width: 481px) {
 
