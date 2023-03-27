@@ -78,9 +78,9 @@ h3 {
     #hero-image {
     display: flex;
     justify-content: center;
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: ("/assets/images/hero-image.jpg") no-repeat center center;
+    background: url('/assets/images/hero-image.jpg') no-repeat center center;
     }
 
   /*info and about */
