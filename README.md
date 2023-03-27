@@ -30,6 +30,10 @@ Consist of font icons for all the social media links
 ### Meet Ups ###
 
 ### Join US ###
+
+### Audio ###
+
+Added thock-keyboard.mp3 to be played at the landing page, did so it dosent start automatic and default is muted, user have to engage to play it.
 _________________________________________________________________________________________________
 ## Credits ##
 
