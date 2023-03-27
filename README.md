@@ -18,13 +18,14 @@ ________________________________________________________________________________
 
 ### Navigation Bar ###
 
-Navigation bar is maded statis and moves with the page when you scoll, bot eye catching and handy.
+Navigation bar is made static and moves with the page when you scoll, bot eye catching and handy.
 
 ### Landing page ###
 
 ### Who we are
 
 ### Footer ###
+Consist of font icons for all the social media links
 
 ### Meet Ups ###
 
@@ -50,5 +51,5 @@ https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
 CSS Gradient tool for navbar
 https://cssgradient.io/
 
-Found this on stackoverflow how you can style the <audio> tag
+Found this on stackoverflow how you can style the audio tag
 https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
