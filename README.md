@@ -75,7 +75,7 @@ Logo in hero image made from the website https://logo.com
 
 Inspiration and code help from the "Love Running" Project.
 
-Code inspiration to put the hero-image-logo.png on top of hero-image.jpg
+Code inspiration to put the hero-image-logo.png on top of hero-image.jpg (scratched that idea later on)
 https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio
 
 Tips for the static navbar
@@ -101,3 +101,14 @@ https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
 
 Thanks to fontawesome for icons
 https://fontawesome.com/
+
+Did some photo modifications on Photopea.
+https://www.photopea.com/
+
+Mockup made in Keynote
+
+This site thaught me that i have to have <p> inside an <li>
+https://caniuse.com/
+
+Google Fonts for the "Playfair Display" font used on the site.
+https://fonts.google.com/
