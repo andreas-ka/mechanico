@@ -84,3 +84,6 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 Used this url to learn about styling the fieldset element
 https://www.w3schools.com/tags/tag_fieldset.asp
+
+Learned all about form styling from this site
+https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/

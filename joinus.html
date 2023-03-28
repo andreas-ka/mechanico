@@ -33,24 +33,19 @@
                 <h3><em>"The link between you and your computer join us"</em></h3>
             </div>
             <div id="info-wrapper">
-                <div class="info-block">
+                <div class="signup-block">
                     <form method="POST" action="formdump.html" class="signup-form">
+                        <br>
                         <h2>Sign up and join the Community</h2>
                         <br>
-                        <label for="firstname">First Name</label>
-                        <input class="text-input" id="firstname" name="first-name" type="text" required>
+                        <label for="firstname"></label>
+                        <input class="text-input" id="firstname" name="first-name" type="text" placeholder="First name" required>
+                        <label for="lastname"></label>
+                        <input class="text-input" id="lastname" name="last-name" type="text" placeholder="Last name" required>
+                        <label for="email"></label>
+                        <input class="text-input" type="email" id="email" name="email-address" placeholder="Email" required>
                         <br>
-                        <br>
-                        <label for="lastname">Last Name</label>
-                        <input class="text-input" id="lastname" name="last-name" type="text" required>
-                        <br>
-                        <br>
-                        <label for="email">Email Address</label>
-                        <br>
-                        <input class="text-input" type="email" id="email" name="email-address" required>
-                        <br>
-                        <br>
-                        <h3>Do you own a custom keyboard today?</h3>
+                        <h4>Do you own a custom keyboard today?</h4>
                         <br>
                         <label for="keyboard">Yes</label>
                         <input type="radio" id="yes" name="keyboard-data" value="yes" required>
@@ -58,11 +53,9 @@
                         <input type="radio" id="no" name="keyboard-data" value="no" required>
                         <br>
                         <br>
+                        <br>    
                         <input class="join-button" type="submit" value="Sign up!">
                     </form>
-                </div>
-                <div class="info-block">
-                    <img class="img-keyboards" src="/assets/images/joinus.png">
                 </div>
             </div>
         </section>
