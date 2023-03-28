@@ -37,6 +37,10 @@ Consist of font icons for all the social media links
 
 ### Meet Ups ###
 
+Meet-Ups is the site to see when the next community gathering is.
+It will be a box design where you have the information about the event and a img next to it.
+Will also use a cross pattern for easier visibility between the events.
+
 ### Join US ###
 
 ### Audio ###
