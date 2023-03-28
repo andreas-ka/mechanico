@@ -80,12 +80,12 @@ h4 {
   font-size: 25px;
   text-decoration: none;
   color: #ffffff;
-  font-family: 'Playfair Display', serif;
+  font-family: serif;
   z-index: 2;
 }
 
 #navbar a:hover {
-  color: #ffffff;
+  color: #000000;
 }
 
 /*hero image */
@@ -146,7 +146,7 @@ h4 {
   background-image: url('/assets/images/form-keyboard1.png');
   background-color: transparent;
   border: 1px solid #ffffff;
-  
+
 }
 
 .signup-form {
@@ -157,9 +157,9 @@ h4 {
   width: 60%;
   padding: 7px;
   margin: 25px 0;
-  border:0;
-  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
-  border-radius:8px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
 }
 
 .join-button {
@@ -168,6 +168,11 @@ h4 {
   border-radius: 8px;
   margin-bottom: 10px;
   font-size: 20px;
+}
+
+.join-button:hover {
+  background-color:#000000;
+  color:#ffffff;
 }
 
 .meetup-list {
@@ -235,7 +240,7 @@ h4 {
   width: 50%;
   height: 50px;
   padding-top: 50px;
-  
+
 }
 
 /* Media queries */
