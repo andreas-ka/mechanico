@@ -133,25 +133,20 @@ h4 {
 
 .info-block p {
   display: flex;
-  
-
 }
 
 .meetup-list {
   display: block
 }
 
-.fa-ul {
-  
-
-}
-
 .meetup-list ul a {
   color: rgb(174, 45, 159);
   text-decoration: none;
-  text-transform: capitalize;
   text-decoration: underline;
-  
+}
+
+.fa-ul {
+  text-align: left;
 }
 
 .img-keyboards {
@@ -338,6 +333,10 @@ h4 {
   }
 
   .info-block p {
+    font-size: 15px;
+  }
+
+  .fa-ul {
     font-size: 15px;
   }
 
