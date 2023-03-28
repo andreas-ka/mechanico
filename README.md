@@ -81,3 +81,6 @@ https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~
 
 My mentor Nikki helped me understand flex box by sending me this link
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Used this url to learn about styling the fieldset element
+https://www.w3schools.com/tags/tag_fieldset.asp

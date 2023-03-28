@@ -135,6 +135,16 @@ h4 {
   display: flex;
 }
 
+fieldset {
+  box-sizing: border-box;
+  font-family: 'Roboto', serif;;
+  padding: 0px;
+  border:1px solid #ffffff; 
+  background:rgba(53, 43, 109, 1);
+  font-size: 30px;
+  
+}
+
 .meetup-list {
   display: block
 }
