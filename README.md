@@ -16,9 +16,17 @@ ________________________________________________________________________________
 
 ## Features ##
 
+- A static navigationbar
+- Footer with included links to our socialmedia sites.
+- Audio file so the visitor can listen to a keyboard.
+- Calender that show the upcoming events.
+- Form so the people who are interested in joining us can submit their contact information.
+
+
 ### Navigation Bar ###
 
 Navigation bar is made static and moves with the page when you scoll, bot eye catching and handy.
+Designed with the same colors as the hero image, gradient with pink to left and purple to the right.
 
 ### Landing page ###
 
@@ -29,19 +37,22 @@ Rest of the page contains a left column of text and a right column containing a 
 At the bottom of the page you find the footer containing icons and links to our social media, and above it
 i placed a audio player so people can listen to the sound och a thocky keyboard.
 
-
-### Who we are
-
 ### Footer ###
-Consist of font icons for all the social media links
+Consist of fontawesome icons for all the social media links.
 
 ### Meet Ups ###
 
 Meet-Ups is the site to see when the next community gathering is.
 It will be a box design where you have the information about the event and a img next to it.
 Will also use a cross pattern for easier visibility between the events.
+Each event is designed with an ul list with icons from fontawsome to give it the same look as the footer.
 
 ### Join US ###
+
+On this webpage the user is greeted first by a quote from the dictionary telling what a keyboard is.
+Under the hero image and quote you have the same setup with two columns, in the left you have the form and on the right is a picture of a lilac keyboard.
+The form consist of first and lastname, then an email field and a radio button choice if you currently own or not an custom keyboard. Last we have the 
+Submit button that takes you to a formdump pages telling you that we will reach out soon, after 10 seconds the browser refreshes and takes you back to index.html.
 
 ### Audio ###
 
@@ -87,3 +98,6 @@ https://www.w3schools.com/tags/tag_fieldset.asp
 
 Learned all about form styling from this site
 https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
+
+Thanks to fontawesome for icons
+https://fontawesome.com/
