@@ -22,6 +22,14 @@ Navigation bar is made static and moves with the page when you scoll, bot eye ca
 
 ### Landing page ###
 
+Has a minimalistic design that continues trough to the other pages, a static navbar on the top with our logo on the left
+and links to the right with clear colors that follow the theme of the website. 
+A hero image that displays a custom keyboard and under it our slogan.
+Rest of the page contains a left column of text and a right column containing a custom keyboard.
+At the bottom of the page you find the footer containing icons and links to our social media, and above it
+i placed a audio player so people can listen to the sound och a thocky keyboard.
+
+
 ### Who we are
 
 ### Footer ###
@@ -34,6 +42,12 @@ Consist of font icons for all the social media links
 ### Audio ###
 
 Added thock-keyboard.mp3 to be played at the landing page, did so it dosent start automatic and default is muted, user have to engage to play it.
+
+### Deploy ###
+
+Website is made with gitpod and then git commit and git push to my repository on github.
+There you can click on your repository in mind and press settings, from there to left you have
+a navigation menu where you can click on Pages, from there you can deploy your website.
 _________________________________________________________________________________________________
 ## Credits ##
 
@@ -57,3 +71,9 @@ https://cssgradient.io/
 
 Found this on stackoverflow how you can style the audio tag
 https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
+
+Learned about z-index from
+https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20).
+
+My mentor Nikki helped me understand flex box by sending me this link
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
