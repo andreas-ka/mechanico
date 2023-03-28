@@ -95,7 +95,7 @@ h4 {
   justify-content: center;
   height: 500px;
   width: 100%;
-  background: url('./assets/images/hero-image.jpg') no-repeat center center;
+  background: url('/assets/images/hero-image.jpg') no-repeat center center;
 }
 
 /*info and about */
@@ -136,6 +136,14 @@ h4 {
   display: flex;
 }
 
+/* form */
+
+.signup-form {
+  width: 449px;
+  margin-left: 50px;
+  font-size: 18px;
+}
+
 .signup-block {
   box-sizing: border-box;
   display: flex;
@@ -144,14 +152,10 @@ h4 {
   justify-content: center;
   position: relative;
   z-index: 10;
-  background-image: url('./assets/images/form-keyboard1.png');
+  background-image: url('/assets/images/form-keyboard1.png');
   background-color: transparent;
   border: 1px solid #ffffff;
 
-}
-
-.signup-form {
-  font-size: 18px;
 }
 
 .text-input {
@@ -161,6 +165,10 @@ h4 {
   border: 0;
   box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
   border-radius: 8px;
+}
+
+input[type="radio"] {
+  padding-right: 5px;
 }
 
 .join-button {
@@ -194,12 +202,6 @@ h4 {
   border: 1px solid #ffffff;
 }
 
-/* form */
-
-.signup-form {
-  width: 499px;
-  margin-left: 50px;
-}
 
 /* audio player */
 
