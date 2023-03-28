@@ -117,6 +117,11 @@ h4 {
   padding-top: 40px;
 }
 
+.center-div-joinus > h3 {
+  text-align: center;
+  padding-top: 40px;
+}
+
 .center-div-joinus {
   display: flex;
   justify-content: center;
@@ -126,7 +131,6 @@ h4 {
   width: 50%;
   height: 100px;
   padding-top: 20px;
-  padding-bottom: 100px;
   text-align: center;
 }
 
@@ -283,13 +287,19 @@ input[type="radio"] {
     display: flex;
     justify-content: center;
     font-family: 'Roboto', serif;
-    font-size: 20px;
+    font-size: 28px;
     margin: auto;
     width: 50%;
     height: 200px;
     padding-top: 20px;
-    
     text-align: center;
+  }
+
+  .center-div-joinus > h3 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
   }
 
   #info-wrapper {
@@ -398,6 +408,13 @@ input[type="radio"] {
     height: 200px;
   }
 
+  .center-div-joinus > h3 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 32px;
+  }
+
   .info-block {
     flex-direction: column;
     justify-content: center;
@@ -436,6 +453,11 @@ input[type="radio"] {
 /* small screens 200px to 481px */
 
 @media (min-width: 200px) and (max-width: 599px) {
+  .info-block {
+    padding: 0;
+    margin: auto;
+  }
+  
   #navbar a {
     font-size: 20px;
     text-decoration: none;
@@ -520,4 +542,11 @@ input[type="radio"] {
     width: 50%;
     margin-left: 25%;
     margin: 0 auto;
+  }
+
+  .center-div-joinus > h3 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 22px;
   }
