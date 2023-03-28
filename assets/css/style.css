@@ -40,6 +40,10 @@ h3 {
   font-family: 'Playfair Display', sans-serif;
 }
 
+h4 {
+  font-family: 'Playfair Display', sans-serif;
+}
+
 /* Navbar styling */
 
 #navbar {
@@ -124,6 +128,30 @@ h3 {
   height: 500px;
   vertical-align: top;
   padding: 40px;
+  justify-content: center;
+}
+
+.info-block p {
+  display: flex;
+  
+
+}
+
+.meetup-list {
+  display: block
+}
+
+.fa-ul {
+  
+
+}
+
+.meetup-list ul a {
+  color: rgb(174, 45, 159);
+  text-decoration: none;
+  text-transform: capitalize;
+  text-decoration: underline;
+  
 }
 
 .img-keyboards {
