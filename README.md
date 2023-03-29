@@ -33,7 +33,7 @@ bot eye catching and handy.
 _________________________________________________________________________________________________
 
 ### Landing page and header ###
-![Navbar image 1](/assets/images/readme-hero-and-quote.png)
+![Landing page image 1](/assets/images/readme-hero-and-quote.png)
 
 - Has a minimalistic design that continues trough to the other pages.
 - A hero image that displays a custom keyboard that sets the color scheme of the site.
@@ -44,13 +44,13 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Footer ###
-![Navbar image 1](/assets/images/readme-footer.png)
-Consist of fontawesome icons for all the social media links.
+![Footer image 1](/assets/images/readme-footer.png)
+Consist of fontawesome icons for all the social media links and is displayed the same on all wedpages.
 
 _________________________________________________________________________________________________
 
 ### Meet Ups ###
-![Navbar image 1](/assets/images/readme-meetup.png)
+![Meet ups image 1](/assets/images/readme-meetup.png)
 - Meet-Ups is the site to see when the next community gathering is.
 - Its a box design where you have the information about the event and a image next to it.
 - Will also use a cross pattern for easier visibility between the different meetup events.
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Join US ###
-![Navbar image 1](/assets/images/readme-form.png)
+![Join Us image 1](/assets/images/readme-form.png)
 - On this webpage the user is greeted first by a quote from the dictionary telling what a keyboard is.
 - Under the hero image and quote you have the same setup with two columns, in the left you have the form and on the right is a picture of a lilac keyboard.
 - The form consist of first and lastname, then an email field and a radio button choice if you currently own or not an custom keyboard. 
@@ -68,16 +68,17 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Audio ###
-![Navbar image 1](/assets/images/readme-audio.png)
+![Audio image 1](/assets/images/readme-audio.png)
 - Added thock-keyboard.mp3 to be played at the landing page, did so it dosent start automatic and default is muted, user have to engage to play it.
 
 _________________________________________________________________________________________________
 
 ### Deployment ###
-
-Website is made with gitpod and then git commit and git push to my repository on github.
-There you can click on your repository in mind and press settings, from there to left you have
-a navigation menu where you can click on Pages, from there you can deploy your website.
+![Deploy image 1](/assets/images/readme-deployment.png)
+- Website is made with gitpod and then git commit and git push to my repository on github.
+- There you can click on your repository in mind and press settings.
+- Next step is that on your left you have a navigation menu where you can click on Pages 
+- Last step is to deploy your website.
 
 _________________________________________________________________________________________________
 ## Testing ##
