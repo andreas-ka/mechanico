@@ -15,9 +15,10 @@ html {
     box-sizing: inherit;
 } */
 
-html,
+
 body {
   overflow-x: hidden;
+  
 }
 
 /*navbar links active status */
@@ -103,7 +104,7 @@ h4 {
   justify-content: center;
   height: 500px;
   width: 100%;
-  background: url("../assets/images/hero-image.png") no-repeat center center;
+  background: url("/assets/images/hero-image.png") no-repeat center center;
 }
 
 /*info and about */
@@ -177,7 +178,7 @@ h4 {
   justify-content: center;
   position: relative;
   z-index: 10;
-  background-image: url('assets/images/form-keyboard1.png');
+  background-image: url("/assets/images/form-keyboard1.png");
   background-color: transparent;
   border: 1px solid #ffffff;
 
@@ -256,6 +257,7 @@ input[type="radio"] {
   display: flex;
   justify-content: center;
   width: 100%;
+  padding-bottom: 50px;
 }
 
 #footer-social {
@@ -350,7 +352,7 @@ input[type="radio"] {
   justify-content: center;
   position: relative;
   z-index: 10;
-  background-image: url("./assets/images/form-keyboard1.png");
+  background-image: url("/assets/images/form-keyboard1.png");
   background-color: transparent;
   border: 1px solid #ffffff;
   margin: auto;
