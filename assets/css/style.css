@@ -40,6 +40,7 @@ p {
 
 h3 {
   font-family: 'Playfair Display', sans-serif;
+  font-size: 24px;
 }
 
 h4 {
@@ -139,7 +140,8 @@ h4 {
   padding-top: 20px;
   text-align: center;
   padding-top: 40px;
-  font-size: 32px;
+  font-size: 24px;
+  margin-bottom: 90px;
 }
 
 #info-wrapper {
@@ -381,6 +383,7 @@ input[type="radio"] {
 
   h3 {
     font-size: 20px;
+    
   }
 
   * {
@@ -414,7 +417,7 @@ input[type="radio"] {
     flex-direction: column;
     justify-content: center;
     width: 90%;
-    height: 900px;
+    height: 1000px;
     margin: 0 auto;
   }
 
@@ -441,6 +444,7 @@ input[type="radio"] {
     width: 90%;
     margin: 0 auto;
     text-align: center;
+    padding: 0;
   }
 
   .info-block {
@@ -451,6 +455,7 @@ input[type="radio"] {
     width: 100%;
     flex-direction: column;
     justify-content: center;
+    padding-top: 50px;
   }
 
   .signup-block {
@@ -526,40 +531,39 @@ input[type="radio"] {
     margin-left: 30px;
   }
 
-}
-
-.center-div>h3 {
+  .center-div>h3 {
   text-align: center;
   padding-top: 40px;
   padding-bottom: 20px;
   font-size: 20px;
-}
+  }
 
-.info-block p {
-  font-size: 15px;
-}
+  .info-block p {
+  font-size: 16px;
+  }
 
-.center-div-joinus {
+  .center-div-joinus {
   height: 265px;
-}
+  }
 
-audio {
+  audio {
   max-height: 100%;
   max-width: 100%;
   margin: auto;
   object-fit: contain;
-}
+  }
 
-#audio-text {
+  #audio-text {
   padding-top: 0;
-}
+  font-size: 15px;
+  }
 
-#footer-wrapper {
+  #footer-wrapper {
   box-sizing: border-box;
   text-align: center;
-}
+  }
 
-#footer-social {
+  #footer-social {
   display: flex;
   justify-content: center;
   box-sizing: border-box;
@@ -600,4 +604,5 @@ audio {
 
 .fa-ul {
   font-size: 10px;
+}
 }
