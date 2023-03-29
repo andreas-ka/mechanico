@@ -38,8 +38,7 @@ p {
   font-family: 'Playfair Display', sans-serif;
 }
 
-h3 {
-  font-family: 'Playfair Display', sans-serif;
+.h3-center-heading {
   font-size: 24px;
 }
 
@@ -346,7 +345,7 @@ input[type="radio"] {
 
 .signup-form {
   width: 449px;
-  margin-left: 50px;
+  margin-left: 40px;
   font-size: 18px;
 }
 
@@ -527,8 +526,9 @@ input[type="radio"] {
   }
 
   .signup-form {
-    width: 300;
-    margin-left: 30px;
+    width: 449px;
+    margin-left: 40px;
+    font-size: 18px;
   }
 
   .center-div>h3 {
