@@ -103,7 +103,7 @@ h4 {
   justify-content: center;
   height: 500px;
   width: 100%;
-  background: url('/assets/images/hero-image.jpg') no-repeat center center;
+  background: url("../assets/images/hero-image.jpg") no-repeat center center;
 }
 
 /*info and about */
@@ -177,7 +177,7 @@ h4 {
   justify-content: center;
   position: relative;
   z-index: 10;
-  background-image: url('/assets/images/form-keyboard1.png');
+  background-image: url("../assets/images/form-keyboard1.png");
   background-color: transparent;
   border: 1px solid #ffffff;
 
