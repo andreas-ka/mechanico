@@ -10,7 +10,8 @@ Just a rudimentery mockup to get a feel for how the site will sorta turnout.
 ![Mockup image 1](/assets/images/mechanico-mockup.png)
 _________________________________________________________________________________________________
 
-/* image from "am i responsive" */
+## Image from Am i Resonsive
+![Responsive image 1](/assets/images/amiresponsive.png)
 
 _________________________________________________________________________________________________
 
