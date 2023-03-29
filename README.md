@@ -24,45 +24,72 @@ ________________________________________________________________________________
 
 
 ### Navigation Bar ###
+![Navbar image 1](/assets/images/readme-navbar.png)
 
-Navigation bar is made static and moves with the page when you scoll, bot eye catching and handy.
-Designed with the same colors as the hero image, gradient with pink to left and purple to the right.
+- Navigation bar is made static and moves with the page when you scoll
+bot eye catching and handy.
+- Designed with the same colors as the hero image, gradient with pink to left and purple to the right.
 
-### Landing page ###
+_________________________________________________________________________________________________
 
-Has a minimalistic design that continues trough to the other pages, a static navbar on the top with our logo on the left
-and links to the right with clear colors that follow the theme of the website. 
-A hero image that displays a custom keyboard and under it our slogan.
-Rest of the page contains a left column of text and a right column containing a custom keyboard.
-At the bottom of the page you find the footer containing icons and links to our social media, and above it
-i placed a audio player so people can listen to the sound och a thocky keyboard.
+### Landing page and header ###
+![Navbar image 1](/assets/images/readme-hero-and-quote.png)
+
+- Has a minimalistic design that continues trough to the other pages.
+- A hero image that displays a custom keyboard that sets the color scheme of the site.
+- Rest of the page contains a left column of text and a right column containing a custom keyboard.
+- At the bottom of the page you find the footer containing icons and links to our social media
+- Under the columns i placed a audio player so people can listen to the sound och a thocky keyboard.
+
+_________________________________________________________________________________________________
 
 ### Footer ###
+![Navbar image 1](/assets/images/readme-footer.png)
 Consist of fontawesome icons for all the social media links.
 
-### Meet Ups ###
+_________________________________________________________________________________________________
 
-Meet-Ups is the site to see when the next community gathering is.
-It will be a box design where you have the information about the event and a img next to it.
-Will also use a cross pattern for easier visibility between the events.
-Each event is designed with an ul list with icons from fontawsome to give it the same look as the footer.
+### Meet Ups ###
+![Navbar image 1](/assets/images/readme-meetup.png)
+- Meet-Ups is the site to see when the next community gathering is.
+- Its a box design where you have the information about the event and a image next to it.
+- Will also use a cross pattern for easier visibility between the different meetup events.
+- Each event is designed with an ul list with icons from fontawsome to give it the same look as the footer.
+
+_________________________________________________________________________________________________
 
 ### Join US ###
+![Navbar image 1](/assets/images/readme-form.png)
+- On this webpage the user is greeted first by a quote from the dictionary telling what a keyboard is.
+- Under the hero image and quote you have the same setup with two columns, in the left you have the form and on the right is a picture of a lilac keyboard.
+- The form consist of first and lastname, then an email field and a radio button choice if you currently own or not an custom keyboard. 
+- Last we have the Submit button that takes you to a formdump pages telling you that we will reach out soon, after 10 seconds the browser refreshes and takes you back to index.html.
 
-On this webpage the user is greeted first by a quote from the dictionary telling what a keyboard is.
-Under the hero image and quote you have the same setup with two columns, in the left you have the form and on the right is a picture of a lilac keyboard.
-The form consist of first and lastname, then an email field and a radio button choice if you currently own or not an custom keyboard. Last we have the 
-Submit button that takes you to a formdump pages telling you that we will reach out soon, after 10 seconds the browser refreshes and takes you back to index.html.
+_________________________________________________________________________________________________
 
 ### Audio ###
+![Navbar image 1](/assets/images/readme-audio.png)
+- Added thock-keyboard.mp3 to be played at the landing page, did so it dosent start automatic and default is muted, user have to engage to play it.
 
-Added thock-keyboard.mp3 to be played at the landing page, did so it dosent start automatic and default is muted, user have to engage to play it.
+_________________________________________________________________________________________________
 
-### Deploy ###
+### Deployment ###
 
 Website is made with gitpod and then git commit and git push to my repository on github.
 There you can click on your repository in mind and press settings, from there to left you have
 a navigation menu where you can click on Pages, from there you can deploy your website.
+
+_________________________________________________________________________________________________
+## Testing ##
+
+_________________________________________________________________________________________________
+## Bugs ##
+
+_________________________________________________________________________________________________
+## Unfiex Bugs ##
+
+_________________________________________________________________________________________________
+## Validator Testing ##
 _________________________________________________________________________________________________
 ## Credits ##
 
