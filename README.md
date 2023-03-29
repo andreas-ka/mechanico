@@ -85,58 +85,65 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 ## Bugs ##
+- Had an issue where the header image wasnt showing after deploying to github
+- Issue with two scrollbars. Solution found on stackoverflow and linked in credits section.
+- 
 
 _________________________________________________________________________________________________
-## Unfiex Bugs ##
+## Unfixed Bugs ##
 
 _________________________________________________________________________________________________
 ## Validator Testing ##
 _________________________________________________________________________________________________
 ## Credits ##
 
-Credit to Tristan Sterling also known as captainsterling on instagram, its his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
+- Credit to Tristan Sterling also known as captainsterling on instagram, its his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
 
-Credit to Alexotos, huge profile in the keyboard community who let me use his images if i want.
+- Credit to Alexotos, huge profile in the keyboard community who let me use his images if i want.
 https://www.alexotos.com/
 
-Logo in hero image made from the website https://logo.com
+- Logo in hero image made from the website https://logo.com
 
-Inspiration and code help from the "Love Running" Project.
+- Inspiration and code help from the "Love Running" Project.
 
-Code inspiration to put the hero-image-logo.png on top of hero-image.jpg (scratched that idea later on)
+- Code inspiration to put the hero-image-logo.png on top of hero-image.jpg (scratched that idea later on)
 https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio
 
-Tips for the static navbar
+- Tips for the static navbar
 https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
 
-CSS Gradient tool for navbar
+- CSS Gradient tool for navbar
 https://cssgradient.io/
 
-Found this on stackoverflow how you can style the audio tag
+- Found this on stackoverflow how you can style the audio tag
 https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
 
-Learned about z-index from
+- Learned about z-index from
 https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20).
 
-My mentor Nikki helped me understand flex box by sending me this link
+- My mentor Nikki helped me understand flex box by sending me this link
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-Used this url to learn about styling the fieldset element
+- Used this url to learn about styling the fieldset element
 https://www.w3schools.com/tags/tag_fieldset.asp
 
-Learned all about form styling from this site
+- Learned all about form styling from this site
 https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
 
-Thanks to fontawesome for icons
+- Thanks to fontawesome for icons
 https://fontawesome.com/
 
-Did some photo modifications on Photopea.
+- Did some photo modifications on Photopea.
 https://www.photopea.com/
 
-Mockup made in Keynote
+- Mockup made in Keynote
 
-This site thaught me that i have to have <p> inside an <li>
+- This site thaught me that i have to have p inside an li element
 https://caniuse.com/
 
-Google Fonts for the "Playfair Display" font used on the site.
+- Google Fonts for the "Playfair Display" font used on the site.
 https://fonts.google.com/
+
+- Solved two scrollsbar by googling and found this thread on stackoverflow
+https://stackoverflow.com/questions/9866220/why-are-two-vertical-scrollbars-showing
+
