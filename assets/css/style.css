@@ -19,7 +19,7 @@ html {
 body {
   overflow-x: hidden;
   overflow-x: initial;
-  
+
 }
 
 /*navbar links active status */
@@ -205,8 +205,8 @@ input[type="radio"] {
 }
 
 .join-button:hover {
-  background-color:#000000;
-  color:#ffffff;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .meetup-list {
@@ -313,7 +313,7 @@ input[type="radio"] {
     padding-top: 40px;
     padding-bottom: 40px;
     font-size: 25px;
-    
+
   }
 
   #info-wrapper {
@@ -378,10 +378,6 @@ input[type="radio"] {
 
 /* Medium screen 950px */
 @media (min-width: 600px) and (max-width: 1200px) {
-
-  #audio-text [
-    font-size: 10px;
-  ]
 
   h3 {
     font-size: 20px;
@@ -476,7 +472,7 @@ input[type="radio"] {
   h3 {
     font-size: 20px;
   }
-  
+
   #hero-image {
     display: flex;
     justify-content: center;
@@ -484,12 +480,12 @@ input[type="radio"] {
     width: 100%;
     background: url("../images/hero-image.png") no-repeat center center;
   }
-  
+
   .info-block {
     padding: 0;
     margin: auto;
   }
-  
+
   #navbar a {
     font-size: 20px;
     text-decoration: none;
@@ -529,78 +525,79 @@ input[type="radio"] {
     width: 300;
     margin-left: 30px;
   }
-  
+
 }
-  .center-div>h3 {
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    font-size: 20px;
-  }
 
-  .info-block p {
-    font-size: 15px;
-  }
+.center-div>h3 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
 
-  .center-div-joinus {
-    height: 265px;
-  }
+.info-block p {
+  font-size: 15px;
+}
 
-  audio {
-    max-height: 100%;
-    max-width: 100%;
-    margin: auto;
-    object-fit: contain;
-  }
+.center-div-joinus {
+  height: 265px;
+}
 
-  #audio-text {
-    padding-top: 0;
-  }
+audio {
+  max-height: 100%;
+  max-width: 100%;
+  margin: auto;
+  object-fit: contain;
+}
 
-  #footer-wrapper {
-    box-sizing: border-box;
-    text-align: center;
-  }
+#audio-text {
+  padding-top: 0;
+}
 
-  #footer-social {
-    display: flex;
-    justify-content: center;
-    box-sizing: border-box;
-    font-size: 20;
-    text-align: center;
-    width: 50%;
-    margin-left: 25%;
-    margin: 0 auto;
-  }
+#footer-wrapper {
+  box-sizing: border-box;
+  text-align: center;
+}
 
-  .center-div-joinus {
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
-  }
+#footer-social {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  font-size: 20;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  margin: 0 auto;
+}
 
-  .text-input {
-    
-    width: 90%;
-    padding: 7px;
-    margin: 25px 0;
-    border: 0;
-    box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
-    border-radius: 8px;
-  }
+.center-div-joinus {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
 
-  .join-button {
-    width: 60%;
-    padding: 12px;
-    border-radius: 8px;
-    margin-bottom: 10px;
-    font-size: 20px;
-  }
+.text-input {
 
-  .img-keyboards {
-    padding: auto;
-  }
+  width: 90%;
+  padding: 7px;
+  margin: 25px 0;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+}
 
-  .fa-ul {
-    font-size: 10px;
-  }
+.join-button {
+  width: 60%;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.img-keyboards {
+  padding: auto;
+}
+
+.fa-ul {
+  font-size: 10px;
+}
