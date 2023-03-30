@@ -97,7 +97,7 @@ h4 {
   justify-content: center;
   height: 500px;
   width: 100%;
-  background: url("../images/hero-image.png") no-repeat center center;
+  background: url("../images/hero-image.webp") no-repeat center center;
 }
 
 /*info and about */
@@ -526,7 +526,7 @@ h3 {
   justify-content: center;
   height: 300px;
   width: 100%;
-  background: url("../images/hero-image.png") no-repeat center center;
+  background: url("../images/hero-image.webp") no-repeat center center;
 }
 
 .info-block {
