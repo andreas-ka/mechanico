@@ -82,7 +82,7 @@ h4 {
 #navbar a:hover {
   color: #000000;
 }
-
+/* styling for links ul meetup */
 .fa-ul a:hover {
   color: #c338ff;
 }
@@ -224,6 +224,8 @@ input[type="radio"] {
 
 .img-keyboards {
   border: 1px solid #ffffff;
+  max-width: 100%;
+  height: auto;
 }
 
 /* audio player */
