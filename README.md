@@ -94,12 +94,16 @@ ________________________________________________________________________________
 - Issue with two scrollbars. Solution found on stackoverflow and linked in credits section.
 - Had a problem with the form not working on submit, changed POST to GET and i did the trick.
 - The form went above the navbar, fixed with z-index.
+- Found an section that was not needed, could be replaced with a div, thanks to W3C validation.
 
 _________________________________________________________________________________________________
 ## Unfixed Bugs ##
 
 _________________________________________________________________________________________________
 ## Validator Testing ##
+Html and CSS validated through W3C validator.
+![Deploy image 1](/assets/images/html-validation.png)
+![Deploy image 1](/assets/images/css-validation.png)
 _________________________________________________________________________________________________
 ## Credits ##
 
