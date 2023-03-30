@@ -11,6 +11,7 @@ Just a rudimentery mockup to get a feel for how the site will sorta turnout.
 _________________________________________________________________________________________________
 
 ## Image from Am i Resonsive
+Finished site.
 ![Responsive image 1](/assets/images/amiresponsive.png)
 
 _________________________________________________________________________________________________
@@ -83,12 +84,16 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 ## Testing ##
+- Tested responsive in chrome on a macbook 14" and also on a 37" monitor.
+- Checked responsive trough a iphone11 mini and a iphone 14 max.
+- Made sure every link worked on website, both internal and external to a new tab.
 
 _________________________________________________________________________________________________
 ## Bugs ##
 - Had an issue where the header image wasnt showing after deploying to github
 - Issue with two scrollbars. Solution found on stackoverflow and linked in credits section.
 - Had a problem with the form not working on submit, changed POST to GET and i did the trick.
+- The form went above the navbar, fixed with z-index.
 
 _________________________________________________________________________________________________
 ## Unfixed Bugs ##
