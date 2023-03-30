@@ -266,6 +266,45 @@ input[type="radio"] {
 
 }
 
+/* Formdump */
+
+#formdump-center {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  margin: auto;
+  height: 50px;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 80px;
+  max-width: 900px;
+}
+
+#formdump-redirect {
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', serif;
+  font-size: 24px;
+  letter-spacing: 2px;
+  margin: auto;
+  width: 50%;
+  height: 50px;
+  padding-top: 50px;
+}
+
+#formdump-redirect a {
+  color: rgb(255, 255, 53);
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+#formdump-redirect a:hover {
+  color: #c338ff;
+}
+
 /* Media queries */
 
 /* Larger screen 1200px */
