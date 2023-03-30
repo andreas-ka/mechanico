@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 ### Footer ###
 ![Footer image 1](/assets/images/readme-footer.png)
-Consist of fontawesome icons for all the social media links and is displayed the same on all wedpages.
+Consist of fontawesome icons for all the social media links and is displayed the same on all webpages.
 
 _________________________________________________________________________________________________
 
@@ -57,15 +57,16 @@ ________________________________________________________________________________
 - Its a box design where you have the information about the event and a image next to it.
 - Will also use a cross pattern for easier visibility between the different meetup events.
 - Each event is designed with an ul list with icons from fontawsome to give it the same look as the footer.
+- Included in every event is an link to its location on google maps and a link to either buy ticket or RSVP.
 
 _________________________________________________________________________________________________
 
 ### Join US ###
 ![Join Us image 1](/assets/images/readme-form.png)
 - On this webpage the user is greeted first by a quote from the dictionary telling what a keyboard is.
-- Under the hero image and quote you have the same setup with two columns, in the left you have the form and on the right is a picture of a lilac keyboard.
+- Under the hero image and quote you have the form with an background of a keyboard and coffee mug in the same color scheme as the site.
 - The form consist of first and lastname, then an email field and a radio button choice if you currently own or not an custom keyboard. 
-- Last we have the Submit button that takes you to a formdump pages telling you that we will reach out soon, after 10 seconds the browser refreshes and takes you back to index.html.
+- Last we have the Submit button that takes you to a formdump pages telling you that we will reach out soon, after 10 seconds the browser refreshes and takes you back to index.html, if you dont want to wait theres a link you can click to go back.
 
 _________________________________________________________________________________________________
 
@@ -85,8 +86,14 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 ## Testing ##
 - Tested responsive in chrome on a macbook 14" and also on a 37" monitor.
-- Checked responsive trough a iphone11 mini and a iphone 14 max.
-- Made sure every link worked on website, both internal and external to a new tab.
+- Checked responsive trough a iphone 11 mini and a iphone 14 max.
+- Made sure every link worked on website, both internal and external to a new tab, and that the form redirects back to
+index after 10 seconds. 
+- Tested so the form functions on both mobile and on desktop.
+- Made sure the navbar works fine on all screen sizes. On bigger screen the links are next to each other, on mobile
+and smaller screens i made it so it goes into a column formation to have a bigger font and user experience.
+- During testing i found out that the form element when scrolling was displaying over the navbar, fixed with z-index so the
+navbar is always over the other content when scrolling.
 
 _________________________________________________________________________________________________
 ## Bugs ##
@@ -95,10 +102,14 @@ ________________________________________________________________________________
 - Had a problem with the form not working on submit, changed POST to GET and i did the trick.
 - The form went above the navbar, fixed with z-index.
 - Found an section that was not needed, could be replaced with a div thanks to W3C validation.
+- There was some problem with meetup page when making it responsive, an overlap with images and text.
+Fixed it with some margin and padding.
 
 _________________________________________________________________________________________________
 ## Unfixed Bugs ##
-
+- No bugs found.
+- Huge learning process and i would have done the layout in code differently the next time, more use
+of classes to ease the responsive settings.
 _________________________________________________________________________________________________
 ## Validator Testing ##
 Html and CSS validated through W3C validator.
@@ -109,7 +120,7 @@ ________________________________________________________________________________
 
 - Credit to Tristan Sterling also known as captainsterling on instagram, its his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
 
-- Credit to Alexotos, huge profile in the keyboard community who let me use his images if i want.
+- Credit to Alexotos, huge profile in the keyboard community who let me use his images, the hero image is from him.
 https://www.alexotos.com/
 
 - Logo in hero image made from the website https://logo.com
