@@ -45,6 +45,7 @@ h4 {
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 2;
 }
 
 #nav-links {
@@ -173,7 +174,7 @@ h4 {
   width: 500px;
   justify-content: center;
   position: relative;
-  z-index: 10;
+ 
   background-image: url("../images/form-keyboard.jpg");
   background-color: transparent;
   border: 1px solid #ffffff;
@@ -207,7 +208,8 @@ input[type="radio"] {
 }
 
 .meetup-list {
-  display: block
+  display: block;
+  z-index: -1;
 }
 
 .meetup-list ul a {

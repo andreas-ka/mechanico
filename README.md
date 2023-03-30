@@ -88,7 +88,7 @@ ________________________________________________________________________________
 ## Bugs ##
 - Had an issue where the header image wasnt showing after deploying to github
 - Issue with two scrollbars. Solution found on stackoverflow and linked in credits section.
-- 
+- Had a problem with the form not working on submit, changed POST to GET and i did the trick.
 
 _________________________________________________________________________________________________
 ## Unfixed Bugs ##
@@ -147,4 +147,7 @@ https://fonts.google.com/
 
 - Solved two scrollsbar by googling and found this thread on stackoverflow
 https://stackoverflow.com/questions/9866220/why-are-two-vertical-scrollbars-showing
+
+This page helped figure the form problem, use GET instead of POST
+https://stackoverflow.com/questions/12221692/http-error-405-0-method-not-allowed-post-fails
 
