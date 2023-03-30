@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Features ##
 
-- A static navigationbar
+- A static navigationbar that highlights current position on website
 - Footer with included links to our socialmedia sites.
 - Audio file so the visitor can listen to a keyboard.
 - Calender that show the upcoming events.
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ![Navbar image 1](/assets/images/readme-navbar.png)
 
 - Navigation bar is made static and moves with the page when you scoll
-bot eye catching and handy.
+bot eye catching and handy. Highlights current active link.
 - Designed with the same colors as the hero image, gradient with pink to left and purple to the right.
 
 _________________________________________________________________________________________________
@@ -94,6 +94,8 @@ index after 10 seconds.
 and smaller screens i made it so it goes into a column formation to have a bigger font and user experience.
 - During testing i found out that the form element when scrolling was displaying over the navbar, fixed with z-index so the
 navbar is always over the other content when scrolling.
+- Noticed during final stages that on mobile the heading above form at mobile overlapped, fixed by setting images responsive.
+- Thanks to my beloved girlfriend who helped me test the site from time to time.
 
 _________________________________________________________________________________________________
 ## Bugs ##
@@ -112,9 +114,23 @@ ________________________________________________________________________________
 of classes to ease the responsive settings.
 _________________________________________________________________________________________________
 ## Validator Testing ##
-Html and CSS validated through W3C validator.
+- Html validated through W3C validator.
 ![Deploy image 1](/assets/images/html-validation.png)
+- CSS validated W3C CSS
 ![Deploy image 1](/assets/images/css-validation.png)
+
+Google Lighthouse scores.
+- Desktop
+![Deploy image 1](/assets/images/chrome-desktop-performance.png)
+- Mobile
+![Deploy image 1](/assets/images/chrome-mobile-performance.png)
+
+_________________________________________________________________________________________________
+## Future features or ideas ##
+
+- Would have liked a page where you can learn how to build your own keyboard and what you need.
+- A full about section where you can read about members and current projects/builds.
+- Style the navbar even more, maybe implement a drop down menu.
 _________________________________________________________________________________________________
 ## Credits ##
 
@@ -171,3 +187,7 @@ https://stackoverflow.com/questions/9866220/why-are-two-vertical-scrollbars-show
 - This page helped figure the form problem, use GET instead of POST
 https://stackoverflow.com/questions/12221692/http-error-405-0-method-not-allowed-post-fails
 
+- Learned more about responsive images from this link.
+https://www.w3schools.com/howto/howto_css_image_responsive.asp
+
+- Huge thanks to my family for letting me do this.
