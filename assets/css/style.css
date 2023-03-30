@@ -19,7 +19,6 @@ html {
 body {
   overflow-x: hidden;
   overflow-x: initial;
-
 }
 
 /*navbar links active status */
@@ -39,7 +38,7 @@ p {
 }
 
 .h3-center-heading {
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h4 {
@@ -381,7 +380,7 @@ input[type="radio"] {
 @media (min-width: 600px) and (max-width: 1200px) {
 
   h3 {
-    font-size: 20px;
+    font-size: 24px;
     
   }
 
@@ -535,7 +534,7 @@ input[type="radio"] {
   text-align: center;
   padding-top: 40px;
   padding-bottom: 20px;
-  font-size: 20px;
+  font-size: 26px;
   }
 
   .info-block p {
