@@ -132,7 +132,7 @@ h4 {
   margin-bottom: 90px;
 }
 
-#info-wrapper {
+.info-wrapper {
   display: flex;
   justify-content: center;
 }
@@ -357,7 +357,7 @@ h3 {
   font-size: 25px;
 }
 
-#info-wrapper {
+.info-wrapper {
   flex-direction: column;
   justify-content: center;
   width: 90%;
@@ -452,7 +452,7 @@ nav {
   justify-content: center;
 }
 
-#info-wrapper {
+.info-wrapper {
   flex-direction: column;
   justify-content: center;
   width: 90%;
