@@ -151,6 +151,15 @@ h4 {
 }
 
 /* form */
+#joinus-wrapper {
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  height: 700px;
+  margin: 0 auto;
+}
+
+
 .signup-form {
   width: 449px;
   margin-left: 50px;
@@ -168,6 +177,7 @@ h4 {
   background-image: url("../images/form-keyboard.jpg");
   background-color: transparent;
   border: 1px solid #ffffff;
+  margin: auto;
 }
 
 .text-input {
@@ -358,7 +368,7 @@ h3 {
 }
 }
 
-/* Medium screen 950px */
+/* Medium screen 600px to 1200px */
 @media (min-width: 600px) and (max-width: 1200px) {
 
 h3 {
@@ -446,6 +456,10 @@ nav {
 .fa-ul {
   padding-top: 50px;
   font-size: 15px;
+}
+
+form h4 {
+  font-size: 20px;
 }
 }
 
