@@ -64,7 +64,8 @@ ________________________________________________________________________________
 
 ### Footer ###
 ![Footer image 1](/assets/images/readme-footer.png)
-Consist of fontawesome icons for all the social media links and is displayed the same on all web pages.
+- Consist of fontawesome icons for all the social media links and is displayed the same on all web pages.
+- The footer is valuable to the user as it encourages them to keep connected via social media.
 
 _________________________________________________________________________________________________
 
@@ -193,12 +194,12 @@ https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-
 
 
 - Learned about z-index from
-https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20).
+https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20.
 
 
-- My mentor Nikki helped me understand flex box by sending me this link
+- My mentor Nikki helped me understand flex box by sending me this link and also the auto refresh function on formdump.html
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
+meta http-equiv="refresh" content="10; url=index.html"
 
 - Used this URL to learn about styling the fieldset element
 https://www.w3schools.com/tags/tag_fieldset.asp

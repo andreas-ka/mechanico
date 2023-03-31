@@ -92,7 +92,7 @@ h4 {
   gap: 15px;
 }
 
-/*hero image */
+/*hero image size and styling */
 #hero-image {
   display: flex;
   justify-content: center;
@@ -101,7 +101,7 @@ h4 {
   background: url("../images/hero-image.webp") no-repeat center center;
 }
 
-/*info and about */
+/*info and about for content */
 .center-div {
   display: flex;
   justify-content: center;
@@ -152,7 +152,7 @@ h4 {
   display: flex;
 }
 
-/* form */
+/* form size and styling */
 #joinus-wrapper {
   flex-direction: column;
   justify-content: center;
@@ -227,7 +227,7 @@ input[type="radio"] {
   height: auto;
 }
 
-/* audio player */
+/* audio player styling and text */
 #audio-text {
   display: flex;
   justify-content: center;
@@ -276,7 +276,7 @@ input[type="radio"] {
   padding-top: 50px;
 }
 
-/* Formdump.html */
+/* Formdump.html styling */
 #formdump-center {
   display: flex;
   justify-content: center;
