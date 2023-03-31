@@ -6,13 +6,27 @@ Get the know how and see when the next keyboard meetup is scheduled.
 _________________________________________________________________________________________________
 
 ## Mock-Up ##
-Just a rudimentary mockup to get a feel for how the site will turn out.
+Rudimentary mockup to get a feel for how the site will turn out.
 ![Mockup image 1](/assets/images/mechanico-mockup.png)
 _________________________________________________________________________________________________
 
 ## Image from Am i Responsive
 Finished site.
 ![Responsive image 1](/assets/images/amiresponsive.png)
+
+_________________________________________________________________________________________________
+
+## Project goals and target audience ##
+
+Achieved
+- Create a website to target the social part of the keyboard community. √
+- Find information about meet-ups and all things related to keyboards. √
+- Make it easy in the future to add more features on the site. Such as news, forum, member section. √
+- To create a place where likeminded individuals can share knowledge, create and find new friends all around the globe. √
+
+Audience
+- Target people who shares the love for this subject.
+- Attract more people into the community and find the fun i mechanical keyboards.
 
 _________________________________________________________________________________________________
 
@@ -24,6 +38,7 @@ ________________________________________________________________________________
 - Calendar that shows the upcoming events.
 - Form so the people who are interested in joining us can submit their contact information.
 
+_________________________________________________________________________________________________
 
 ### Navigation Bar ###
 ![Navbar image 1](/assets/images/readme-navbar.png)
@@ -121,14 +136,20 @@ of classes to ease the responsive settings.
 _________________________________________________________________________________________________
 ## Validator Testing ##
 - Html validated through W3C validator.
+
 ![Deploy image 1](/assets/images/html-validation.png)
+
 - CSS validated W3C CSS
+
 ![Deploy image 1](/assets/images/css-validation.png)
 
 Google Lighthouse scores.
 - Desktop
+
 ![Deploy image 1](/assets/images/chrome-desktop-performance.png)
+
 - Mobile
+
 ![Deploy image 1](/assets/images/chrome-mobile-performance.png)
 
 _________________________________________________________________________________________________
@@ -217,3 +238,5 @@ https://www.w3schools.com/howto/howto_css_image_responsive.asp
 
 
 - Huge thanks to my family for letting me do this.
+
+_________________________________________________________________________________________________
