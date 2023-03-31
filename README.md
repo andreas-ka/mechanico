@@ -3,6 +3,8 @@
 Mechanico is a website dedicated to people who loves and shares the joy of mechanical keyboards.
 It's a meeting ground for all related to keyboards, a place to socialize and get friends for life.
 Get the know how and see when the next keyboard meetup is scheduled.
+
+- Link to finished website: https://andreas-ka.github.io/mechanico/index.html
 _________________________________________________________________________________________________
 
 ## Mock-Up ##
