@@ -168,6 +168,7 @@ ________________________________________________________________________________
 
 - No plagiarism, found code online and got inspired and made it my own for example the static and gradient navbar.
 - For example https://kbd.news/meetups inspired me to use font icons next to the meetups information.
+- The website structure containing two columns of content that also switch side is inspired from another student project about a resturant.
 
 ### Media and Images ###
 - Credit to Tristan Sterling also known as captainsterling on Instagram, it is his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
