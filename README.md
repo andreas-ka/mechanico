@@ -164,81 +164,70 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 ## Credits ##
 
-- Credit to Tristan Sterling also known as captainsterling on Instagram, it is his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
+### Plagiarism ###
 
+- No plagiarism, found code online and got inspired and made it my own for example the static and gradient navbar.
+- For example https://kbd.news/meetups inspired me to use font icons next to the meetups information.
+
+### Media and Images ###
+- Credit to Tristan Sterling also known as captainsterling on Instagram, it is his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
 
 - Credit to Alexotos, a huge profile in the keyboard community who let me use his images, the hero image is from him.
 https://www.alexotos.com/
 
-
 - Logo in hero image made from the website https://logo.com
-
-
-- Inspiration and code help from the "Love Running" Project.
-
-
-- Code inspiration to put the hero-image-logo.png on top of hero-image.jpg (scratched that idea later on)
-https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio
-
-
-- Tips for the static navbar
-https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
-
-
-- CSS Gradient tool for the navbar
-https://cssgradient.io/
-
-
-- Found this on StackOverflow how you can style the audio tag
-https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
-
-
-- Learned about z-index from
-https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20.
-
-
-- My mentor Nikki helped me understand flex box by sending me this link and also the auto refresh function on formdump.html
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-meta http-equiv="refresh" content="10; url=index.html"
-
-- Used this URL to learn about styling the fieldset element
-https://www.w3schools.com/tags/tag_fieldset.asp
-
-
-- Learned all about form styling from this site
-https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
-
-
-- Thanks to fontawesome for the icons
-https://fontawesome.com/
-
 
 - Did some photo modifications on Photopea.
 https://www.photopea.com/
 
+### Code troubleshooting credits ###
+
+- Inspiration and code help from the "Love Running" Project.
+
+- Code inspiration to put the hero-image-logo.png on top of hero-image.jpg (scratched that idea later on)
+https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio
+
+- Tips for the static navbar
+https://www.w3docs.com/snippets/css/how-to-create-a-fixed-navbar-with-css.html
+
+- CSS Gradient tool for the navbar, used to set my colors on my navbar.
+https://cssgradient.io/
+
+- Found this on StackOverflow how you can style the audio tag
+https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag
+
+- Learned about z-index from
+https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=What%20is%20a%20Z%20Index,%2C%20or%20position%3Afixed%20.
+
+- My mentor Nikki helped me understand flex box by sending me this link and also the auto refresh function on formdump.html
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- meta http-equiv="refresh" content="10; url=index.html"
+
+- Used this URL to learn about styling the fieldset element
+https://www.w3schools.com/tags/tag_fieldset.asp
+
+- Learned all about form styling from this site
+https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
+
+- Thanks to fontawesome for the icons
+https://fontawesome.com/
 
 - Mockup made in Keynote
-
 
 - This site taught me that i have to have p inside a li element
 https://caniuse.com/
 
-
 - Google Fonts for the "Playfair Display" font used on the site.
 https://fonts.google.com/
-
 
 - Solved two scrollbars by googling and found this thread on stackoverflow
 https://stackoverflow.com/questions/9866220/why-are-two-vertical-scrollbars-showing
 
-
 - This page helped figure out the form problem, use GET instead of POST
 https://stackoverflow.com/questions/12221692/http-error-405-0-method-not-allowed-post-fails
 
-
 - Learned more about responsive images from this link.
 https://www.w3schools.com/howto/howto_css_image_responsive.asp
-
 
 - Huge thanks to my family for letting me do this.
 
