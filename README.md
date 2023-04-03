@@ -117,6 +117,7 @@ ________________________________________________________________________________
 
 - Tested responsive in chrome on a MacBook 14" and also on a 37" monitor.
 - Checked responsive through an iPhone 11 mini and an iPhone 14 max.
+- All functions, links and responsiveness tested on firefox, chrome and safari.
 - Made sure every link worked on the website, both internal and external to a new tab, and that the form redirects back to
 the index after 10 seconds.
 - Tested so the form functions on both mobile and desktop.
