@@ -219,7 +219,7 @@ ________________________________________________________________________________
 
 - Used this [URL](https://www.w3schools.com/tags/tag_fieldset.asp) to learn about styling the fieldset element
 
-- Learned all about form styling from this [site](https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/)
+- Learned all about form styling forms this [site](https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/)
 
 - Thanks to [fontawesome](https://fontawesome.com/) for the icons
 
