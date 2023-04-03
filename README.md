@@ -8,11 +8,13 @@ Get the know how and see when the next keyboard meetup is scheduled.
 _________________________________________________________________________________________________
 
 ## Mock-Up ##
+
 Rudimentary mockup to get a feel for how the site will turn out.
 ![Mockup image 1](/assets/images/mechanico-mockup.png)
 _________________________________________________________________________________________________
 
 ## Image from Am i Responsive
+
 Finished site.
 ![Responsive image 1](/assets/images/amiresponsive.png)
 
@@ -43,6 +45,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Navigation Bar ###
+
 ![Navbar image 1](/assets/images/readme-navbar.png)
 
 - The navigation bar is made static and moves with the page when you scroll
@@ -52,6 +55,7 @@ both eye-catching and handy. Highlights current active link.
 _________________________________________________________________________________________________
 
 ### Landing page and header ###
+
 ![Landing page image 1](/assets/images/readme-hero-and-quote.png)
 
 - Has a minimalistic design that continues through to the other pages.
@@ -63,6 +67,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Footer ###
+
 ![Footer image 1](/assets/images/readme-footer.png)
 - Consist of fontawesome icons for all the social media links and is displayed the same on all web pages.
 - The footer is valuable to the user as it encourages them to keep connected via social media.
@@ -70,6 +75,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Meet Ups ###
+
 ![Meet ups image 1](/assets/images/readme-meetup.png)
 - Meet-Ups is the site to see when the next community gathering is.
 - It's a box design where you have the information about the event and an image next to it.
@@ -81,6 +87,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Join US ###
+
 ![Join Us image 1](/assets/images/readme-form.png)
 - On this webpage, the user is greeted first by a quote from the dictionary telling what a keyboard is.
 - Under the hero image and quote you have the form with a background of a keyboard and coffee mug in the same color scheme as the site.
@@ -89,6 +96,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Audio ###
+
 ![Audio image 1](/assets/images/readme-audio.png)
 - Added thock-keyboard.mp3 to be played at the landing page, so it doesn't start automatically and the default is muted, user have to engage to play it.
 
@@ -96,6 +104,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 
 ### Deployment ###
+
 ![Deploy image 1](/assets/images/readme-deployment.png)
 - Website is made with gitpod and then git commit and git push to my repository on GitHub.
 - There you can click on your repository in mind and press settings.
@@ -103,7 +112,9 @@ ________________________________________________________________________________
 - The last step is to deploy your website.
 
 _________________________________________________________________________________________________
+
 ## Testing ##
+
 - Tested responsive in chrome on a MacBook 14" and also on a 37" monitor.
 - Checked responsive through an iPhone 11 mini and an iPhone 14 max.
 - Made sure every link worked on the website, both internal and external to a new tab, and that the form redirects back to
@@ -119,7 +130,9 @@ navbar is always over the other content when scrolling.
 - Noticed the performance on mobile was slow so changed the hero-image and keyboard-purple to webp format instead of jpg.
 
 _________________________________________________________________________________________________
+
 ## Bugs ##
+
 - Had an issue where the header image wasn't showing after deploying to GitHub
 - Issue with two scrollbars. The solution was found on StackOverflow and linked in the credits section.
 - Had a problem with the form not working on submit, changed POST to GET and i did the trick.
@@ -131,13 +144,17 @@ Fixed it with some margin and padding.- No bugs found.
 of classes to ease the responsive settings.
 
 _________________________________________________________________________________________________
+
 ## Unfixed Bugs ##
+
 - No bugs found.
 - Huge learning process and i would have done the layout in code differently the next time, with more use
 of classes to ease the responsive settings.
 
 _________________________________________________________________________________________________
+
 ## Validator Testing ##
+
 - Html validated through W3C validator.
 
 ![Deploy image 1](/assets/images/html-validation.png)
@@ -156,19 +173,23 @@ Google Lighthouse scores.
 ![Deploy image 1](/assets/images/chrome-mobile-performance.png)
 
 _________________________________________________________________________________________________
+
 ## Future features or ideas ##
 
 - Would have liked a page where you can learn how to build your keyboard and what you need.
 - A full about section where you can read about members and current projects/builds.
 - Style the navbar even more, and maybe implement a drop-down menu.
 _________________________________________________________________________________________________
-## Credits ##
 
-### Plagiarism ###
+## Plagiarism ##
 
 - No plagiarism, found code online and got inspired and made it my own for example the static and gradient navbar.
 - For example https://kbd.news/meetups inspired me to use font icons next to the meetups information.
 - The website structure containing two columns of content that also switch side is inspired from another student project about a resturant.
+
+_________________________________________________________________________________________________
+
+## Credits ##
 
 ### Media and Images ###
 - Credit to Tristan Sterling also known as captainsterling on Instagram, it is his amazing photographs i was kind enough to borrow. https://www.sterlingandcophotography.com/etc/
